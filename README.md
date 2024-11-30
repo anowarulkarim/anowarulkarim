@@ -1,6 +1,6 @@
 # Hi there 👋  
 
-Welcome to my GitHub profile! I'm **[Bhuyan Md Anowarul Karim]**, a passionate **Software Developer** with a focus on **backend development** **software engineering**.  
+Welcome to my GitHub profile! I'm **Bhuyan Md Anowarul Karim**, a passionate **Software Developer** with a focus on **backend development** **software engineering**.  
 
 ---
 
