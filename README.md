@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm **[Bhuyan Md Anowarul Karim]**, a passionate *
 
 ## 📫 Contact Me  
 
-- 📧 Email: [anowarulkarim8@gmail.com]  
-- 📱 Mobile Number: [+8801830255203]
+- 📧 Email: anowarulkarim8@gmail.com  
+- 📱 Mobile Number: +8801830255203
 
  
