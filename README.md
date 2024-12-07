@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm **Bhuyan Md Anowarul Karim**, a passionate **S
 ## 🚀 About Me  
 
 - 🎓 **Education**: Bachelor of Science in Computer Science and Engineering from East West University (EWU).  
-- 🧑‍💻 **Current Interests**: Exploring backend development, database engineering.  
+- 🧑‍💻 **Current Interests**: Exploring backend development, Odoo.  
 - 🛠️ **Skills**: Python, Django, React, TypeScript, and Tailwind CSS.
 
 ---
